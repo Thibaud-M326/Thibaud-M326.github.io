@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ControllerTest::testImc":7,"ControllerTest::testDailyCaloriesGoal":7,"ControllerTest::testDailyCaloriesTotal":7,"ControllerTest::testWhatPhysique":7},"times":{"ControllerTest::testImc":0.001,"ControllerTest::testWhatPhysique":0.003,"ControllerTest::testDailyCaloriesTotal":0,"ControllerTest::testDailyCaloriesGoal":0,"ControllerTest::testIsGoalAchieved":0}}
