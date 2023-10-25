@@ -1,0 +1,120 @@
+body {
+  background-image: url("../Tools/Images/bg-sky.png");
+  background-repeat: repeat;
+  margin: 0;
+}
+
+#playTab {
+  background-color: #8AD1F0;
+  border-radius: 20px;
+  width: 250px;
+  height: 500px;
+  position: absolute;
+  top: 180px;
+  left : 20px;
+}
+
+#time {
+  position: absolute;
+  top: 52px;
+  left : 20px;
+  font-size: 40px;
+}
+
+#score {
+  position: absolute;
+  top: 150px;
+  left : 20px;
+  font-size: 40px;
+}
+
+#button {
+  position: absolute;
+  top: 430px;
+  left : 65px;
+  font-size: 40px;
+}
+
+#divIdTubes {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#divPiranas {
+  position: relative;
+}
+
+#bgTubes {
+  height: 86vh;
+  width: 70vw;
+  min-width: 1000px;
+}
+
+.piranasPlant {
+  position: absolute;
+}
+
+#piranasPlant1 {
+  height: 9%;
+  width: 4.6%;
+  top : 8.8%;
+  left : 33.4%;
+}
+
+#piranasPlant2 {
+  height: 9%;
+  width: 4.6%;
+  top : 8.8%;
+  left : 48.8%;
+}
+
+#piranasPlant3 {
+  height: 9%;
+  width: 4.6%;
+  top : 8.8%;
+  left : 61.9%;
+}
+
+#piranasPlant4 {
+  height: 9%;
+  width: 4.6%;
+  top : 35.9%;
+  left : 33.4%;
+}
+
+#piranasPlant5 {
+  height: 9%;
+  width: 4.6%;
+  top : 35.9%;
+  left : 48.8%;
+}
+
+#piranasPlant6 {
+  height: 9%;
+  width: 4.6%;
+  top : 35.9%;
+  left : 61.9%;
+}
+
+#piranasPlant7 {
+  height: 9%;
+  width: 4.6%;
+  top : 62.9%;
+  left : 33.4%;
+}
+
+#piranasPlant8 {
+  height: 9%;
+  width: 4.6%;
+  top : 62.9%;
+  left : 48.8%;
+}
+
+#piranasPlant9 {
+  height: 9%;
+  width: 4.6%;
+  top : 62.9%;
+  left : 61.9%;
+}
